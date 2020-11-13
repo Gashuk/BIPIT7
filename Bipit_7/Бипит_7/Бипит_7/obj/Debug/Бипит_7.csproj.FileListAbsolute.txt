@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Бипит\Бипит_7\Бипит_7\bin\Debug\Бипит_7.dll.config
+C:\Users\user\Desktop\Бипит\Бипит_7\Бипит_7\bin\Debug\Бипит_7.dll
+C:\Users\user\Desktop\Бипит\Бипит_7\Бипит_7\bin\Debug\Бипит_7.pdb
+C:\Users\user\Desktop\Бипит\Бипит_7\Бипит_7\obj\Debug\Бипит_7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Бипит\Бипит_7\Бипит_7\obj\Debug\Бипит_7.dll
+C:\Users\user\Desktop\Бипит\Бипит_7\Бипит_7\obj\Debug\Бипит_7.pdb
+C:\Users\Алиса\Desktop\Bipit_7\Бипит_7\Бипит_7\bin\Debug\Бипит_7.dll.config
+C:\Users\Алиса\Desktop\Bipit_7\Бипит_7\Бипит_7\bin\Debug\Бипит_7.dll
+C:\Users\Алиса\Desktop\Bipit_7\Бипит_7\Бипит_7\bin\Debug\Бипит_7.pdb
+C:\Users\Алиса\Desktop\Bipit_7\Бипит_7\Бипит_7\obj\Debug\Бипит_7.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\Bipit_7\Бипит_7\Бипит_7\obj\Debug\Бипит_7.dll
+C:\Users\Алиса\Desktop\Bipit_7\Бипит_7\Бипит_7\obj\Debug\Бипит_7.pdb

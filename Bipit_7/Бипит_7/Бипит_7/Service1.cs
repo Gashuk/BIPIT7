@@ -51,6 +51,7 @@ namespace Бипит_7
 
         public void SendMsg(string msg, int id)
         {
+            bool flag = true;
             foreach(var item in users)
             {
                 string answer = DateTime.Now.ToShortTimeString();
@@ -60,12 +61,16 @@ namespace Бипит_7
                 if (user != null)
                 {
                     answer += ": " + user.Name+ ": ";
-
                 }
 
                 answer += msg;
                 item.operationContext.GetCallbackChannel<IServerChatCallBack>().MsgCallBack(answer);
-                messag.Add(answer);
+                if (flag)
+                {
+                    messag.Add(answer);
+                    flag = false;
+                }
+                
             }
         }
 
